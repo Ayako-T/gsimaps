@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "福泉寺",
+        "description": "満願弁財天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.154779,
+          35.259193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "鳳巣院",
+        "description": "寿老人",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.150319,
+          35.256433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蓮船寺",
+        "description": "大黒尊天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.143259,
+          35.252848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "報身寺",
+        "description": "恵比寿神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.150933,
+          35.242947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大蓮寺",
+        "description": "福禄寿",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.154752,
+          35.244644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "圓福寺",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.15672,
+          35.245495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "潮音寺",
+        "description": "毘沙門天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.151775,
+          35.274074
+        ]
+      }
+    }
+  ]
+}
